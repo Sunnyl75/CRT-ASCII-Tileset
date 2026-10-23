@@ -2,6 +2,10 @@
 
 A CRT-inspired ASCII-style map tileset for [MMapper](https://github.com/MUME/MMapper), the mapping client for MUME.
 
+THIS IS FOR FUN ONLY
+
+DO NOT USE FOR REGULAR GAMWEPLAY.
+
 ## Installation
 
 1. Download this repository using **Code → Download ZIP** and extract it.
