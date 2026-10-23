@@ -2,9 +2,9 @@
 
 A CRT-inspired ASCII-style map tileset for [MMapper](https://github.com/MUME/MMapper), the mapping client for MUME.
 
-THIS IS FOR FUN ONLY
+## THIS IS FOR FUN ONLY
 
-DO NOT USE FOR REGULAR GAMWEPLAY.
+## DO NOT USE FOR REGULAR GAMEPLAY.
 
 ## Installation
 
